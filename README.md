@@ -1,24 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Hi%20there,%20I'm%20Sinan%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
 
+  <!-- Dynamic Aesthetic Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=220&section=header&text=Sinan%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Software%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+
+  <!-- Navigation Bar -->
   <p align="center">
-    <strong>Computer Science & Engineering Student | Developer | Tech Explorer</strong>
+    <a href="#about-me"><b>About</b></a> •
+    <a href="#tech-stack"><b>Tech Stack</b></a> •
+    <a href="#projects"><b>Projects</b></a> •
+    <a href="#github-metrics"><b>Analytics</b></a> •
+    <a href="#contact"><b>Connect</b></a>
   </p>
 
+  <!-- Dynamic Typing Effect -->
+  <a href="https://github.com/sinan07khan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Building+Scalable+Software;Exploring+Low-Level+Systems+%26+Linux;Designing+Intuitive+Digital+Products" alt="Typing SVG" />
+  </a>
+
+  <!-- Profile View Badge -->
   <p align="center">
-    <a href="https://github.com/sinan07khan">
-      <img src="https://komarev.com/ghpvc/?username=sinan07khan&style=flat-square&color=00d2d3&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=sinan07khan&style=for-the-badge&color=00d2d3&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
+
 </div>
 
 ---
 
-### ✦ About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" /> About Me
 
 ```yaml
-user: Sinan Khan
-focus: Software Development, Problem Solving & Systems
-passions: Building sleek UI/UX, low-level tinkering & clean code
-location: Bangladesh
-status: Crafting ideas into code
+identity:
+  name: Sinan Khan
+  role: Computer Science & Engineering Undergraduate
+  location: Bogura, Bangladesh
+  interests: Systems Architecture, Backend Engineering, UI/UX Systems
+
+current_focus:
+  learning: Data Structures, Advanced Algorithms, Systems Programming
+  working_on: Full-Stack Web Applications & Open Source Utilities
+  reading: Clean Code & High-Performance Computing Principles
