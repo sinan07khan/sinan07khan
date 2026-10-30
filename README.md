@@ -3,15 +3,6 @@
   <!-- Dynamic Aesthetic Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=220&section=header&text=Sinan%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Software%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
 
-  <!-- Navigation Bar -->
-  <p align="center">
-    <a href="#about-me"><b>About</b></a> •
-    <a href="#tech-stack"><b>Tech Stack</b></a> •
-    <a href="#projects"><b>Projects</b></a> •
-    <a href="#github-metrics"><b>Analytics</b></a> •
-    <a href="#contact"><b>Connect</b></a>
-  </p>
-
   <!-- Dynamic Typing Effect -->
   <a href="https://github.com/sinan07khan">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Building+Scalable+Software;Exploring+Low-Level+Systems+%26+Linux;Designing+Intuitive+Digital+Products" alt="Typing SVG" />
